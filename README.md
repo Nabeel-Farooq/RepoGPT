@@ -1,22 +1,6 @@
 # RepoGPT: AI-Powered GitHub Assistant 🚀
 
-[![License](https://img.shields.io/github/license/mbarinov/repogpt)](LICENSE)
-[![Version](https://img.shields.io/github/package-json/v/mbarinov/repogpt)](package.json)
-[![Contributors](https://img.shields.io/github/contributors/mbarinov/repogpt)](https://github.com/mbarinov/repogpt/graphs/contributors)
-
 **RepoGPT** is an open-source, AI-powered assistant that revolutionizes how developers interact with their GitHub repositories. By leveraging natural language processing, it simplifies codebase exploration and management, providing intelligent insights to make development more efficient and intuitive.
-
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation Guide](#installation-guide)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features ✨
 
@@ -24,18 +8,6 @@
 - **Streamlined Repo Management** – Import, list, and delete repositories effortlessly within the application.
 - **PostgreSQL + pgvector Integration** – Built for efficient AI-powered data processing and storage.
 - **Simple Setup** – Get up and running in minutes with minimal configuration.
-
-## Demo 🎥
-
-Here's a look at RepoGPT in action:
-
-### Chat with your GitHub repository:
-
-![Chat with Repo](https://storage.googleapis.com/aithelete/chat.png)
-
-### Manage repositories:
-
-![Manage Repos](https://storage.googleapis.com/aithelete/repos.png)
 
 ## Getting Started 🚀
 
@@ -56,7 +28,7 @@ Before starting, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mbarinov/repogpt.git
+git clone https://github.com/Nabeel-Farooq/repogpt.git
 cd repogpt
 ```
 
@@ -134,31 +106,7 @@ Use the following command to import a repository:
   local models for AI capabilities.
 - [ ] **Support for Other VCS** – Integrate with other version control systems like GitLab and Bitbucket.
 
-## Contributing 🤝
-
-We love contributions! Please check out our [Contributing Guide](CONTRIBUTING.md) to get started.
-
-## Support 📫
-
-- **Issues** – Feel free to [open an issue](https://github.com/mbarinov/repogpt/issues) if you encounter any problems.
-- **Discussions** – Join our [GitHub Discussions](https://github.com/mbarinov/repogpt/discussions) for questions and community support.
-- **Email** – For any other inquiries, contact us at [me@maxbarinov.com].
 
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Made with ❤️ by [Max Barinov](https://maxbarinov.com)*
-
----
-
-### Keywords
-
-AI-powered GitHub assistant, natural language repo management, open-source, developer tools, machine learning, codebase exploration, pgvector, PostgreSQL, OpenAI.
-
----
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mbarinov/repogpt&type=Date)](https://star-history.com/#mbarinov/repogpt&Date)
